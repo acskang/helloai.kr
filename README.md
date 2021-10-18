@@ -1,10 +1,6 @@
-# Dillinger
-## _The Last Markdown Editor, Ever_
-
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
 # Javascript
 
-[jquery를 이용한 텍스트 입력 및 출력(text-input.html)](../javascript/text-input.html)
+[jquery를 이용한 텍스트 입력 및 출력(text-input.html)](text-input.html)
 
 ```html
 <body>
