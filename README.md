@@ -20,7 +20,7 @@
 </body>
 ```
 
-[HTML 파일 읽어오기(reading-html-file.html)](../javascript/reading-html-file.html)
+[HTML 파일 읽어오기(reading-html-file.html)](reading-html-file.html)
 
 ```html
 <div data-include-path="biz-card-section.html"></div>
